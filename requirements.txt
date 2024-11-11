@@ -1,0 +1,10 @@
+tensorflow==2.11.0       # or a compatible version with your project
+opencv-python==4.5.5.64  # for image processing
+numpy==1.23.4            # for numerical operations
+pandas==1.5.2            # for data manipulation
+seaborn==0.12.1          # for data visualization
+matplotlib==3.6.2        # for plotting
+joblib==1.2.0            # for saving the label encoder and classifier
+scikit-learn==1.1.3      # for machine learning algorithms (KNN, Random Forest)
+pillow==9.3.0            # for handling image files in the GUI
+customtkinter==0.3.5     # for creating the customized Tkinter GUI
