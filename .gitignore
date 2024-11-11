@@ -1,0 +1,10 @@
+# Ignore dataset folder if too large
+Dataset/
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# Ignore environment or config files
+*.env
