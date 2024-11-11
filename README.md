@@ -16,8 +16,8 @@ This project classifies mango leaf diseases using a convolutional neural network
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/repo_name.git
-    cd repo_name
+    git clone https://github.com/jodayyy/Mango-Leaf-Disease-Classifier-MLDC
+    cd Mango-Leaf-Disease-Classifier-MLDC
     ```
 
 2. Install required packages:
